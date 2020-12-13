@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="05-mutienv2" />
+        <module name="05-mutienv" />
+        <module name="04-errorpage" />
+        <module name="01-primary" />
+        <module name="02-warproject" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-primary" target="1.8" />
+      <module name="02-warproject" target="1.8" />
+      <module name="04-errorpage" target="1.8" />
+      <module name="05-mutienv" target="1.8" />
+      <module name="05-mutienv2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-primary" options="-parameters" />
+      <module name="02-warproject" options="-parameters" />
+      <module name="04-errorpage" options="-parameters" />
+      <module name="05-mutienv" options="-parameters" />
+      <module name="05-mutienv2" options="-parameters" />
+    </option>
+  </component>
+</project>

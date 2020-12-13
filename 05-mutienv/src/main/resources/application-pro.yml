@@ -1,0 +1,4 @@
+server:
+  port: 9999  # 指定要监听的接口
+  servlet:
+    context-path: /pro # 指定上下文路径
