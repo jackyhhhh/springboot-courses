@@ -1,4 +1,0 @@
-server:
-  port: 8888  # ָ��Ҫ�����Ķ˿�
-  servlet:
-    context-path: /xxx  # ָ��������·��
