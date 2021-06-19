@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-primary/01-primary.iml" filepath="$PROJECT_DIR$/01-primary/01-primary.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-warproject/02-warproject.iml" filepath="$PROJECT_DIR$/02-warproject/02-warproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-actuator/03-actuator.iml" filepath="$PROJECT_DIR$/03-actuator/03-actuator.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-errorpage/04-errorpage.iml" filepath="$PROJECT_DIR$/04-errorpage/04-errorpage.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-mutienv/05-mutienv.iml" filepath="$PROJECT_DIR$/05-mutienv/05-mutienv.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-mutienv2/05-mutienv2.iml" filepath="$PROJECT_DIR$/05-mutienv2/05-mutienv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-readconfig/06-readconfig.iml" filepath="$PROJECT_DIR$/06-readconfig/06-readconfig.iml" />
     </modules>
   </component>
 </project>

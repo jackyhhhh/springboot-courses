@@ -5,12 +5,17 @@
     <file url="file://$PROJECT_DIR$/01-primary/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-warproject/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-warproject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-actuator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-actuator/src/main/resources/application.yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-errorpage/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-errorpage/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-mutienv/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-mutienv/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-mutienv2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-mutienv2/src/main/resources" charset="UTF-8" />
-    <file url="PROJECT" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/06-readconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-readconfig/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

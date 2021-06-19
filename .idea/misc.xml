@@ -8,10 +8,12 @@
         <option value="$PROJECT_DIR$/04-errorpage/pom.xml" />
         <option value="$PROJECT_DIR$/05-mutienv/pom.xml" />
         <option value="$PROJECT_DIR$/05-mutienv2/pom.xml" />
+        <option value="$PROJECT_DIR$/03-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/06-readconfig/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="13" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
