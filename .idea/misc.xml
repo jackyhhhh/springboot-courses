@@ -10,6 +10,10 @@
         <option value="$PROJECT_DIR$/05-mutienv2/pom.xml" />
         <option value="$PROJECT_DIR$/03-actuator/pom.xml" />
         <option value="$PROJECT_DIR$/06-readconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/07-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/08-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/09-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/09-logback2/pom.xml" />
       </list>
     </option>
   </component>

@@ -16,6 +16,14 @@
     <file url="file://$PROJECT_DIR$/05-mutienv2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06-readconfig/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06-readconfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-jsp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-mybatis/src/main/webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-logback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-logback/src/main/webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-logback2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-logback2/src/main/webapp" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -9,6 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/05-mutienv/05-mutienv.iml" filepath="$PROJECT_DIR$/05-mutienv/05-mutienv.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-mutienv2/05-mutienv2.iml" filepath="$PROJECT_DIR$/05-mutienv2/05-mutienv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-readconfig/06-readconfig.iml" filepath="$PROJECT_DIR$/06-readconfig/06-readconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-jsp/07-jsp.iml" filepath="$PROJECT_DIR$/07-jsp/07-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-mybatis/08-mybatis.iml" filepath="$PROJECT_DIR$/08-mybatis/08-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-logback/09-logback.iml" filepath="$PROJECT_DIR$/09-logback/09-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-logback2/09-logback2.iml" filepath="$PROJECT_DIR$/09-logback2/09-logback2.iml" />
     </modules>
   </component>
 </project>
